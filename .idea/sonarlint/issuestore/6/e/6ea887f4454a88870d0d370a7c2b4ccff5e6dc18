@@ -1,0 +1,17 @@
+
+x
+java:S1488L"[Immediately return this expression instead of assigning it to the temporary variable "str".(ŞĞ…³8ÔîşÁ .
+x
+java:S1488R"[Immediately return this expression instead of assigning it to the temporary variable "str".(ŞĞ…³8—Í»Â .
+t
+java:S1192N"RDefine a constant instead of duplicating this literal "\nå­¦åˆ¶å¹´é™ï¼š" 3 times.(öÔÎƒşÿÿÿÿ8Ìü¢Ã .
+{
+java:S1192L"^Define a constant instead of duplicating this literal "å­¦ç”Ÿä¿¡æ¯å¦‚ä¸‹ï¼š\nå§“å" 3 times.(ŞĞ…³8½ˆäÂ .
+i
+java:S1192M"LDefine a constant instead of duplicating this literal "\nå¹´é¾„ï¼š" 3 times.(õèó8½ˆäÂ .
+i
+java:S1192L"LDefine a constant instead of duplicating this literal "\nå­¦å·ï¼š" 3 times.(ŞĞ…³8½ˆäÂ .
+x
+java:S1488W"[Immediately return this expression instead of assigning it to the temporary variable "str".(ŞĞ…³8½ˆäÂ .
+u
+java:S1192M"XDefine a constant instead of duplicating this literal "\næ‰€æŠ¥ä¸“ä¸šåç§°ï¼š" 4 times.(õèó8¶‹Ã .

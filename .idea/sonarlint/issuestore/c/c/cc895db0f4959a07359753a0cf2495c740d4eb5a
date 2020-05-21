@@ -1,0 +1,10 @@
+
+W	java:S1257"<This block of commented-out lines of code should be removed.(½¦ÈK8Â¬‹¶ .
+U	java:S106+"9Replace this use of System.out or System.err by a logger.( ç®8•¶ .
+G
+java:S1068"*Remove this unused "weight" private field.(Š”øø8‡Ñ½¸ .
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ñõ°Â
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(¸çúÁşÿÿÿÿ8±†—¶ .
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÓŠöıÿÿÿÿ8×úÈ¸ .
+H
+java:S1068	"+Remove this unused "species" private field.(ßÜ8‰ı½¸ .

@@ -1,0 +1,6 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÜéV8õş†¡.
+]	java:S125"<This block of commented-out lines of code should be removed.(¥°£¡ÿÿÿÿÿ8°üÓ‡¡.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö°›şşÿÿÿÿ8¾ÿÛ“¡.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­åËÓùÿÿÿÿ

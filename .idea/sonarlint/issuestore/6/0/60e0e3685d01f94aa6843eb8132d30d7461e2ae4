@@ -1,0 +1,39 @@
+
+‹
+java:S1192„"tDefine a constant instead of duplicating this literal "è¿˜æœªåœ¨æ•°ç»„æ’å…¥æ•°ç»„ï¼Œè¯·é‡æ–°é€‰æ‹©æ“ä½œ" 3 times.(‚“¡ª
+
+java:S1192"tDefine a constant instead of duplicating this literal "è¾“å…¥çš„æ•°æ®æ ¼å¼æœ‰é”™è¯¯ï¼Œä¸èƒ½æœ‰éæ•°å­—" 3 times.(Ñâ×ÿÿÿÿÿ
+2
+java:S1643G"Use a StringBuilder instead.(şÎ¼
+l	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+s	java:S135d"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÀ†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñâ×ÿÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(‡•»Š
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(Ïö‚Ñ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(‘¤–¹
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(Ş‘›ïøÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ë›¤ìûÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(Òâı
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ú½’§
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(¡¬öıÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ï“‰ê
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(Ş‘›ïøÿÿÿÿ
+h
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘
+5
+java:S1659c"Declare "k" on a separate line.(ûÆşÂ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ÄÛ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(Ñâ×ÿÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(æƒ‹­øÿÿÿÿ
+f	java:S128z"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+7	java:S131r""Add a default case to this switch.(™Ïêƒ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(óÁ×ııÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(óÁ×ııÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(‚“¡ª
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(‹§œşÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(…Üê
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ñâ×ÿÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(‚“¡ª
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(‚“¡ª
